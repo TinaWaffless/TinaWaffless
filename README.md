@@ -1,5 +1,3 @@
-
-  
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://i.postimg.cc/tCqxk5Kw/fc0106026cb93e313abee670aba1133a.gif"  />
 </div>
@@ -7,6 +5,14 @@
 ###
 
 <h6 data-importer="text" align="center">please don't copy my skins</h6>
+
+###
+
+<p data-importer="text" align="center"></p>
+
+###
+
+<p data-importer="text" align="center"></p>
 
 ###
 
@@ -19,6 +25,14 @@
 ###
 
 <h5 data-importer="text" align="center">ᨳ𐔌՞҂ ˕ ֊՞𐦯ᜊ</h5>
+
+###
+
+<p data-importer="text" align="center"></p>
+
+###
+
+<p data-importer="text" align="center"></p>
 
 ###
 
